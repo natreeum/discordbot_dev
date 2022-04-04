@@ -6,6 +6,7 @@ https://github.com/allssu
 
 https://discordjs.guide/creating-your-bot/
 
+------------------------------------------------
 
 How to use :
 
