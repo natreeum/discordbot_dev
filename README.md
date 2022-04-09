@@ -10,6 +10,6 @@ https://discordjs.guide/creating-your-bot/
 
 How to use :
 
-node index.js
+`node index.js`
 
-npm run start:dev
+`npm run start:dev`
